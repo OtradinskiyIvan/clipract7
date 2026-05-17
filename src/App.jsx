@@ -1,4 +1,3 @@
-// src/App.jsx
 import ProfileCard from './components/ProfileCard';
 import './App.css';
 
